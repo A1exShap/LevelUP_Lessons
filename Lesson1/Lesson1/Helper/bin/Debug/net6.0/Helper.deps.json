@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Helper/1.0.0": {
+        "dependencies": {
+          "DataValidator": "1.0.0"
+        },
+        "runtime": {
+          "Helper.dll": {}
+        }
+      },
+      "DataValidator/1.0.0": {
+        "runtime": {
+          "DataValidator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Helper/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataValidator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

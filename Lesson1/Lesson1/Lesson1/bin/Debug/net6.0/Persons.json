@@ -1,0 +1,1 @@
+[{"Key":1,"Value":[{"Name":"Firstname","Position":0,"ValidateMethod":1,"Value":"ALEX"},{"Name":"Lastname","Position":1,"ValidateMethod":1,"Value":"SHAP"},{"Name":"Age","Position":2,"ValidateMethod":2,"Value":"33"},{"Name":"Hobby","Position":3,"ValidateMethod":0,"Value":"C#"}]}]

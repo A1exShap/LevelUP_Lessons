@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Lesson1.View/1.0.0": {
+        "dependencies": {
+          "Lesson1.PersonManager": "1.0.0"
+        },
+        "runtime": {
+          "Lesson1.View.dll": {}
+        }
+      },
+      "Lesson1.PersonManager/1.0.0": {
+        "runtime": {
+          "Lesson1.PersonManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lesson1.View/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lesson1.PersonManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

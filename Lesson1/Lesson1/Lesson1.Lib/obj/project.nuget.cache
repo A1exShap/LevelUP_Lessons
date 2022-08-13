@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "b1znnzZ4G5gTiMlSKF2MwlD2WKCeuVeV/kWESj4M5n+Lr9N/DQRDvvwUn1tcJOs/oArKB9eQ2i/uWH/yvdwzZw==",
+  "success": true,
+  "projectFilePath": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP\\LevelUP_Lessons\\Lesson1\\Lesson1\\Lesson1.Lib\\Controller.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexs\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

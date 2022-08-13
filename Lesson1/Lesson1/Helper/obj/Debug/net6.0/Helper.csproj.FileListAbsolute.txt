@@ -1,0 +1,15 @@
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\bin\Debug\net6.0\Helper.deps.json
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\bin\Debug\net6.0\Helper.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\bin\Debug\net6.0\Helper.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\bin\Debug\net6.0\DataValidator.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\bin\Debug\net6.0\DataValidator.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.csproj.CopyComplete
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\refint\Helper.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\Helper.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Helper\obj\Debug\net6.0\ref\Helper.dll
