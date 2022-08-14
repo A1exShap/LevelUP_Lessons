@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Controller/1.0.0": {
+        "dependencies": {
+          "SportGoods": "1.0.0"
+        },
+        "runtime": {
+          "Controller.dll": {}
+        }
+      },
+      "SportGoods/1.0.0": {
+        "runtime": {
+          "SportGoods.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Controller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SportGoods/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

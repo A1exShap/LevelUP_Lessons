@@ -1,0 +1,15 @@
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\bin\Debug\net6.0\Controller.deps.json
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\bin\Debug\net6.0\Controller.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\bin\Debug\net6.0\Controller.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\bin\Debug\net6.0\SportGoods.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\bin\Debug\net6.0\SportGoods.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.csproj.CopyComplete
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\refint\Controller.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\Controller.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Controller\obj\Debug\net6.0\ref\Controller.dll
