@@ -1,0 +1,12 @@
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\bin\Debug\net6.0\SportGoods.deps.json
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\bin\Debug\net6.0\SportGoods.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\bin\Debug\net6.0\SportGoods.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\refint\SportGoods.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\SportGoods.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Model\obj\Debug\net6.0\ref\SportGoods.dll

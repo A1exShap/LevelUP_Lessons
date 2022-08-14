@@ -1,0 +1,15 @@
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\View.exe
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\View.deps.json
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\View.runtimeconfig.json
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\View.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\bin\Debug\net6.0\View.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\refint\View.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\View.genruntimeconfig.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson2\Lesson2\Lesson2\obj\Debug\net6.0\ref\View.dll
