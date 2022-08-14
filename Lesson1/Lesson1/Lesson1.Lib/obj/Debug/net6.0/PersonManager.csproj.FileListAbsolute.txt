@@ -1,0 +1,12 @@
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\bin\Debug\net6.0\PersonManager.deps.json
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\bin\Debug\net6.0\PersonManager.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\bin\Debug\net6.0\PersonManager.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.csproj.AssemblyReference.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.AssemblyInfoInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.AssemblyInfo.cs
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.csproj.CoreCompileInputs.cache
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\refint\PersonManager.dll
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\PersonManager.pdb
+D:\DEVELOPMENT\C#\LESSONS\LevelUP\LevelUP_Lessons\Lesson1\Lesson1\Lesson1.Lib\obj\Debug\net6.0\ref\PersonManager.dll
