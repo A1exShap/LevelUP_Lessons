@@ -6,6 +6,8 @@
 
         private readonly Dictionary<string, CachedValue<T>> _cache = new();
 
+        public int Count => _cache.Count;
+
         internal void Store(string key, T value, int timeout = DEFAULT_TIMEOUT)
         {
             _cache[key] = new CachedValue<T>

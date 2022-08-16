@@ -22,6 +22,8 @@
 
             Console.WriteLine($"FIRST: {_stringCache.Fetch("FIRST")}");     // Should display a value
             Console.WriteLine($"SECOND: {_stringCache.Fetch("SECOND")}");   // Should display a default
+
+            Console.WriteLine($"Count: {_stringCache.Count}");
         }
     }
 }
