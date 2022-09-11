@@ -2,16 +2,20 @@
 {
     public abstract class GoodsBase
     {
-        protected GoodsBase(string name, string description)
+        protected GoodsBase(int goodsType, string name, string description)
         {
-            Article = Guid.NewGuid();
-
+            Id = Guid.NewGuid();
+            GoodsType = goodsType;
             Name = name;
             Description = description;
         }
 
-        public Guid Article { get; init; }
-        public string Name { get; set; }
-        public string Description { get; set; }
+        public Guid Id { get; init; }
+
+        public int GoodsType { get; init; }
+
+        public string Name { get; init; }
+
+        public string Description { get; init; }
     }
 }

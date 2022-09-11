@@ -6,7 +6,7 @@
         public int ShelfLife { get; init; }
         public bool IsValid { get; set; }
 
-        public FoodAdditive(string name, string description, DateTime productionDate, int shelfLife) : base(name, description)
+        public FoodAdditive(int goodsType, string name, string description, DateTime productionDate, int shelfLife) : base(goodsType, name, description)
         {
             ProductionDate = productionDate;
             ShelfLife = shelfLife;

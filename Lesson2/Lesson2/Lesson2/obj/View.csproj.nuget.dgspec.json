@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP\\LevelUP_Lessons\\Lesson2\\Lesson2\\Lesson2\\View.csproj": {}
+    "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP2\\Lesson2\\Lesson2\\Lesson2\\View.csproj": {}
   },
   "projects": {
-    "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP\\LevelUP_Lessons\\Lesson2\\Lesson2\\Lesson2\\View.csproj": {
+    "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP2\\Lesson2\\Lesson2\\Lesson2\\View.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP\\LevelUP_Lessons\\Lesson2\\Lesson2\\Lesson2\\View.csproj",
+        "projectUniqueName": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP2\\Lesson2\\Lesson2\\Lesson2\\View.csproj",
         "projectName": "View",
-        "projectPath": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP\\LevelUP_Lessons\\Lesson2\\Lesson2\\Lesson2\\View.csproj",
+        "projectPath": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP2\\Lesson2\\Lesson2\\Lesson2\\View.csproj",
         "packagesPath": "C:\\Users\\alexs\\.nuget\\packages\\",
-        "outputPath": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP\\LevelUP_Lessons\\Lesson2\\Lesson2\\Lesson2\\obj\\",
+        "outputPath": "D:\\DEVELOPMENT\\C#\\LESSONS\\LevelUP2\\Lesson2\\Lesson2\\Lesson2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

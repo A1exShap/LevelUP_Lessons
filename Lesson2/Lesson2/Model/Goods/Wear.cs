@@ -4,7 +4,7 @@
     {
         public WearSize WearSize { get; init; }
 
-        public Wear(string name, string description, WearSize wearSize) : base(name, description)
+        public Wear(int goodsType, string name, string description, WearSize wearSize) : base(goodsType, name, description)
         {
             WearSize = wearSize;
         }

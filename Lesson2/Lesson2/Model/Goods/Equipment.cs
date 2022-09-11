@@ -4,7 +4,7 @@
     {
         public EquipmentType EquipmentType { get; init; }
 
-        public Equipment(string name, string description, EquipmentType equipmentType) : base(name, description)
+        public Equipment(int goodsType, string name, string description, EquipmentType equipmentType) : base(goodsType, name, description)
         {
             EquipmentType = equipmentType;
         }
